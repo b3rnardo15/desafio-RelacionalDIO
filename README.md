@@ -51,8 +51,4 @@ Este projeto foi desenvolvido como parte de um desafio do bootcamp da [Digital I
 - **MySQL**: Banco de dados relacional utilizado para desenvolver e gerenciar o modelo.
 - **MySQL Workbench**: Ferramenta para criação do modelo relacional e visualização das entidades.
 
-## 🚀 Como Utilizar
 
-1. Clone o repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
